@@ -7,13 +7,13 @@ This repository provides a comprehensive guide to using Linux commands, with exa
 1. [User and Terminal Details](#1-user-and-terminal-details)
 2. [File Operations](#2-file-operations)
    - Creating, Viewing, and Appending
-3. [Word Count and Line Count](#3-word-count-line-count)
+3. [Word Count and Line Count](#3-word-count-and-line-count)
 4. [Head and Tail Commands](#4-head-and-tail-commands)
 5. [Linux Command-Line Shortcuts](#5-linux-command-line-shortcuts)
 6. [Linux File System Hierarchy](#6-linux-file-system-hierachy)
 7. [Move Command](#7-move-command)
 8. [Copy Command](#8-copy-command)
-9. [TTY and Virtual Terminals](#9-tty-and-vartual-terminals)
+9. [TTY and Virtual Terminals](#9-tty-and-virtual-terminals)
 10. [Getting Command Information](#10-getting-command-information)
 11. [Editing with Vim](#11-editing-with-vim)
 
